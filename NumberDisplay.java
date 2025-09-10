@@ -14,6 +14,7 @@ public class NumberDisplay
 {
     private int limit;
     private int value;
+   
 
     /**
      * Constructor for objects of class NumberDisplay.
