@@ -22,4 +22,4 @@ Q5: Creating NumberDisplay "hours" with a limit of 24. When calling increment() 
 Q6: I have sucessfully created a NumberDisplay object, named it "minutes" and setting its value to 60. When i call getValue(), it showed me the current value (for example 1). The terminal window is blank since there wasnt any System.out.println() which is expected.
 Q7: Created a NumberDisplay object with a limit of 6. In the Code Pad below i added "NumberDisplay display = new NumberDisplay(6);" along with "display.getValue()" and "display.increment();". It shows the get value display at "0 (int)", however once you call increment() it increases by 1 each time.
 Q8: When calling a value with the setValue less than the limit 3, it succesdfully updates the store value. Wehn calling steValue with a greater number then its limite example 10, it does not change the stored value because it exceeds the limit.
-Q9:
+Q9: 
